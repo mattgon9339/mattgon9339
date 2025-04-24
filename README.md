@@ -1,6 +1,6 @@
 - 👋 Hi, I’m a senior software engineer with around 10 years of experience in full-stack software development and testing.
-- 👀 I’m interested in Web Development, DevOps Engineering, and Blockchain.
-- 🌱 I’m currently learning Machine Learning.
+- 👀 I’m interested in Web Development, DevOps Engineering, AI/ML, and Blockchain.
+- 🌱 I’m currently learning Mobile Development.
 - 💞️ I’m looking for a chance to work with a talented team and be part of a dynamic environment where I can continuously learn and grow is incredibly motivating.
 - 📫 How to reach me mattgon9339@gmail.com, +12134323765
 - 😄 Pronouns: He/Him
